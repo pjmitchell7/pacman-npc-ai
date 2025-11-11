@@ -43,17 +43,13 @@ git clone https://github.com/pjmitchell7/pacman-npc-ai.git
 cd pacman-npc-ai
 ```
 
-### 2. Clone the Berkeley Pac-Man AI Code
+### 2. Clone the Pac-Man AI Code
 
 Inside your project folder:
 
 ```bash
-git clone https://github.com/ucb-ai/pacman.git pacman
+git clone https://github.com/aig-upf/pacman-projects.git pacman
 ```
-
-Alternatively, download the Berkeley starter code zip:
-
-* [CS188 Berkeley Project Page](http://ai.berkeley.edu/project_overview.html)
 
 ### 3. Create Folder Structure
 
